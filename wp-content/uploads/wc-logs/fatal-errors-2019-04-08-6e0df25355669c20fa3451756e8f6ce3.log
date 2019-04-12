@@ -1,0 +1,22 @@
+2019-04-08T04:00:54+00:00 CRITICAL syntax error, unexpected 'Menu' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:01:34+00:00 CRITICAL syntax error, unexpected 'Menu' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:04:06+00:00 CRITICAL syntax error, unexpected 'Menu' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:11:57+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:12:13+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:12:20+00:00 CRITICAL syntax error, unexpected ')', expecting end of file in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php on line 165
+
+2019-04-08T04:24:16+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 118
+
+2019-04-08T04:24:25+00:00 CRITICAL syntax error, unexpected ';' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 29
+
+2019-04-08T04:24:57+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 117
+
+2019-04-08T04:24:58+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 117
+
+2019-04-08T04:24:58+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 117
+

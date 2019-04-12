@@ -1,0 +1,59 @@
+2019-04-09T03:16:09+00:00 CRITICAL syntax error, unexpected 'Menu' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 86
+
+2019-04-09T03:20:03+00:00 CRITICAL syntax error, unexpected 'Menu' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 86
+
+2019-04-09T03:34:51+00:00 CRITICAL Uncaught Error: Call to undefined function wp_nav_menu_css() in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php:84
+Stack trace:
+#0 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(704): require_once()
+#1 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(653): load_template('C:\\xampp\\htdocs...', true)
+#2 C:\xampp\htdocs\cutthemewooco\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php(1): get_header()
+#4 C:\xampp\htdocs\cutthemewooco\wp-includes\template-loader.php(77): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cutthemewooco\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\cutthemewooco\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 84
+
+2019-04-09T03:42:23+00:00 CRITICAL syntax error, unexpected '}', expecting ';' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 65
+
+2019-04-09T03:45:31+00:00 CRITICAL Uncaught Error: Function name must be a string in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php:63
+Stack trace:
+#0 C:\xampp\htdocs\cutthemewooco\wp-includes\class-wp-hook.php(288): edit_class_menu_header('<div class="men...')
+#1 C:\xampp\htdocs\cutthemewooco\wp-includes\plugin.php(208): WP_Hook->apply_filters('<div class="men...', Array)
+#2 C:\xampp\htdocs\cutthemewooco\wp-includes\nav-menu-template.php(278): apply_filters('wp_nav_menu', '<div class="men...', Object(stdClass))
+#3 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php(226): wp_nav_menu()
+#4 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(704): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(653): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\cutthemewooco\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php( in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 63
+
+2019-04-09T03:46:13+00:00 CRITICAL Uncaught Error: Function name must be a string in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php:63
+Stack trace:
+#0 C:\xampp\htdocs\cutthemewooco\wp-includes\class-wp-hook.php(288): edit_class_menu_header('<div class="men...')
+#1 C:\xampp\htdocs\cutthemewooco\wp-includes\plugin.php(208): WP_Hook->apply_filters('<div class="men...', Array)
+#2 C:\xampp\htdocs\cutthemewooco\wp-includes\nav-menu-template.php(278): apply_filters('wp_nav_menu', '<div class="men...', Object(stdClass))
+#3 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php(226): wp_nav_menu()
+#4 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(704): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(653): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\cutthemewooco\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php( in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 63
+
+2019-04-09T03:46:35+00:00 CRITICAL Uncaught Error: Function name must be a string in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php:63
+Stack trace:
+#0 C:\xampp\htdocs\cutthemewooco\wp-includes\class-wp-hook.php(288): edit_class_menu_header('<div class="men...')
+#1 C:\xampp\htdocs\cutthemewooco\wp-includes\plugin.php(208): WP_Hook->apply_filters('<div class="men...', Array)
+#2 C:\xampp\htdocs\cutthemewooco\wp-includes\nav-menu-template.php(278): apply_filters('wp_nav_menu', '<div class="men...', Object(stdClass))
+#3 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php(226): wp_nav_menu()
+#4 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(704): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\cutthemewooco\wp-includes\template.php(653): load_template('C:\\xampp\\htdocs...', true)
+#6 C:\xampp\htdocs\cutthemewooco\wp-includes\general-template.php(41): locate_template(Array, true)
+#7 C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\page-90.php( in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\functions.php on line 63
+
+2019-04-09T03:52:11+00:00 CRITICAL syntax error, unexpected ''after'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 86
+
+2019-04-09T04:07:40+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 85
+
+2019-04-09T05:33:53+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 97
+
+2019-04-09T05:35:51+00:00 CRITICAL syntax error, unexpected 'abc' (T_STRING), expecting ')' in C:\xampp\htdocs\cutthemewooco\wp-content\themes\themedthach\themedthach\header.php on line 97
+
